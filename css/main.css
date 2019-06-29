@@ -73,6 +73,7 @@ ul, ol {
 	padding: 0;
 }
 ul li {
+	list-style-type: disc;
 }
 .section {
 	padding: 100px 0;
